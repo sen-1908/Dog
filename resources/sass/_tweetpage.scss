@@ -1,0 +1,77 @@
+
+img {
+   max-width: 100%;
+   height: auto;
+   object-fit: cover;
+}
+.comment-thum
+{
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.form-inline {
+    // text-align: center;
+    height: 80px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+.tweet-user {
+    display: flex;
+}
+.tweet-name {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.tweet-title {
+    font-size: 1.5rem;
+    // margin-top: 20px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.tweet-days {
+    text-align: right;
+    color: gray;
+}
+.tweet-img {
+    max-width: 100%;
+   height: auto;
+   object-fit: cover;
+}
+.tweet-content {
+    text-align: center;
+    font-size: 1.1rem;
+    margin-top: 15px;
+    margin-bottom: 30px;
+
+}
+.likecom {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+.comment-people {
+    display: flex;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.comment-name {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.comment-comment {
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+    border: none;
+    
+
+}
+.btn-img {
+    width: 50px;
+    height: 50px;
+   
+}
+
+

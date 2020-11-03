@@ -1,0 +1,46 @@
+
+
+.navbar {
+    background-color:white;
+    position: fixed;
+    z-index: 100;
+    margin-bottom: 2rem;
+    width: 100%;
+    // z-index: 100;
+    
+}
+
+.py-4 {
+
+    background-color:white;
+}
+    #app {
+    background-color:White;
+    position: relative;
+    
+}
+footer {
+    background-color:$cGray;
+    text-align: center;
+}
+.nav-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-class {
+    margin-top: 10rem;
+}
+.navbar-brand {
+    width: 50%;
+}
+.nav-img {
+    width: 70%;
+    height: auto;
+    text-align: center;
+}
+.card-header {
+    color: $cPink;
+    background-color: white;
+    text-align: center;
+}

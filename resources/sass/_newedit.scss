@@ -1,0 +1,36 @@
+.new-wrapper {
+   width: 100%;
+   & h4 {
+       text-align: center;
+       color: gray;
+   }
+}
+.new-title {
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 20px;
+   &::placeholder {
+       text-align: center;
+    //    width: 10rem;
+   }
+}
+.new-contents {
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 20px;
+    &::placeholder {
+        text-align: center;
+    }
+}
+.new-img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.tweet-btn {
+    width: 100%;
+    background-color: $cPink;
+    color: white;
+    padding: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 2rem;
+}
